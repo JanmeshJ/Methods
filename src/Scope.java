@@ -10,6 +10,12 @@ public class Scope {
             int c = 99;
         }
         System.out.println(a);
+
+        // Scoping in for loops
+        for (int i = 0; i < 4; i++) {
+            System.out.println(i);
+        }
+
     }
 
     static void random(int marks) {

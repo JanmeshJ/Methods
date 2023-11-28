@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66e4c030-97c5-46da-a4cf-e7977f88fc59" name="Changes" comment="Greeting">
-      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="66e4c030-97c5-46da-a4cf-e7977f88fc59" name="Changes" comment="Scope">
+      <change beforePath="$PROJECT_DIR$/src/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701186565437</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Scope">
+      <created>1701199318111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701199318111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Greeting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Greeting" />
+    <MESSAGE value="Scope" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scope" />
   </component>
 </project>
